@@ -1,5 +1,7 @@
-#Excercise 4 playing with numbers and math
+#Excercise 4 playing with variables and names
 
-print "I will count my bones"
+bread = 10;
+hotDogs = 20;
 
-print "Number of bones I have are: ", 103*2, " with one borken bone."
+print "There are ",bread," bread packet in the pantry."
+print "There are ",hotDogs," hotDogs packet in the pantry. "
